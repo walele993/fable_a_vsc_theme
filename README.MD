@@ -4,10 +4,10 @@ Fable Themes is a collection of custom Visual Studio Code themes designed for a 
 
 ## Available Themes
 
-- **Fable Unicorn** - A light theme with a white background and pink/green accents.
-- **Fable Gelato** - A light variant with a beige background and soft tones.
-- **Fable Grimoire** - A dark theme with balanced colors and smooth contrasts.
-- **Fable Liquorice** - A high-contrast dark theme with a deep black background and vibrant colors.
+- **Unicorn** - A light theme with a white background and pink/green accents.
+- **Gelato** - A light variant with a beige background and soft tones.
+- **Grimoire** - A dark theme with balanced colors and smooth contrasts.
+- **Liquorice** - A high-contrast dark theme with a deep black background and vibrant colors.
 
 ## Project Status
 
