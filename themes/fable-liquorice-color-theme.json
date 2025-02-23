@@ -1,0 +1,53 @@
+{
+  "name": "Liquorice",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0d0d0d",
+    "editor.foreground": "#f2f2f2",
+    "statusBar.background": "#1a1a1a",
+    "statusBar.foreground": "#ff4f9a",
+    "sideBar.background": "#121212",
+    "button.background": "#72bca5",
+    "editorCursor.foreground": "#ff4f9a",
+    "editorLineNumber.foreground": "#666666",
+    "editor.selectionBackground": "#333333",
+    "editor.selectionHighlightBackground": "#72bca550"
+  },
+  "tokenColors": [
+    {
+      "name": "Functions",
+      "scope": ["entity.name.function"],
+      "settings": { "foreground": "#ff4f9a" }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable"],
+      "settings": { "foreground": "#72bca5" }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string"],
+      "settings": { "foreground": "#c8e4b2", "fontStyle": "italic" }
+    },
+    {
+      "name": "Keywords",
+      "scope": ["keyword"],
+      "settings": { "foreground": "#ff5eb7", "fontStyle": "bold" }
+    },
+    {
+      "name": "Numbers",
+      "scope": ["constant.numeric"],
+      "settings": { "foreground": "#ffd966" }
+    },
+    {
+      "name": "Comments",
+      "scope": ["comment"],
+      "settings": { "foreground": "#7a7a7a", "fontStyle": "italic" }
+    },
+    {
+      "name": "Types",
+      "scope": ["storage.type", "support.type"],
+      "settings": { "foreground": "#be93ff" }
+    }
+  ]
+}

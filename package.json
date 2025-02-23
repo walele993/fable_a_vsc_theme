@@ -1,0 +1,33 @@
+{
+  "name": "fable-code-theme",
+  "displayName": "Fable Code Theme",
+  "description": "Un tema magico con 4 varianti: Unicorn, Gelato, Grimoir, Liquorice",
+  "version": "1.0.0",
+  "publisher": "IlTuoNome",
+  "engines": { "vscode": "^1.75.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unicorn",
+        "uiTheme": "vs",     
+        "path": "./themes/fable-unicorn-color-theme.json"
+      },
+      {
+        "label": "Gelato",
+        "uiTheme": "vs", 
+        "path": "./themes/fable-gelato-color-theme.json"
+      },
+      {
+        "label": "Grimoir",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/fable-grimoir-color-theme.json"
+      },
+      {
+        "label": "Liquorice",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/fable-liquorice-color-theme.json"
+      }
+    ]
+  }
+}
