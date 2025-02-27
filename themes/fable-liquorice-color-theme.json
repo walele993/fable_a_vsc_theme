@@ -2,52 +2,121 @@
   "name": "Liquorice",
   "type": "dark",
   "colors": {
-    "editor.background": "#0d0d0d",
-    "editor.foreground": "#f2f2f2",
-    "statusBar.background": "#1a1a1a",
-    "statusBar.foreground": "#ff4f9a",
-    "sideBar.background": "#121212",
-    "button.background": "#72bca5",
-    "editorCursor.foreground": "#ff4f9a",
-    "editorLineNumber.foreground": "#666666",
-    "editor.selectionBackground": "#333333",
-    "editor.selectionHighlightBackground": "#72bca550"
+    "editor.background": "#000000",
+    "editor.foreground": "#CCCCCC",
+    "statusBar.background": "#111111",
+    "statusBar.foreground": "#FF7EB6",
+    "sideBar.background": "#0A0A0A",
+    "sideBar.foreground": "#666666",
+    "sideBarSectionHeader.foreground": "#666666",
+    "sideBarSectionHeader.background": "#000000",
+    "activityBar.background": "#0A0A0A",
+    "activityBar.foreground": "#FF7EB6",
+    "activityBar.inactiveForeground": "#666666",
+    "activityBarBadge.background": "#FF7EB6",
+    "activityBarBadge.foreground": "#000000",
+    "list.activeSelectionForeground": "#FF7EB6",
+    "list.activeSelectionBackground": "#1A1A1A",
+    "list.inactiveSelectionForeground": "#FF7EB6",
+    "list.inactiveSelectionBackground": "#111111",
+    "menu.selectionForeground": "#FF7EB6",
+    "menu.selectionBackground": "#1A1A1A",
+    "button.background": "#D16D9C",
+    "editorCursor.foreground": "#9E7EBE",
+    "editorLineNumber.foreground": "#4A4A4A",
+    "editor.selectionBackground": "#1A1A1A",
+    "editor.selectionHighlightBackground": "#FF7EB620",
+    "focusBorder": "#8A9B6E"
   },
   "tokenColors": [
     {
-      "name": "Functions",
-      "scope": ["entity.name.function"],
-      "settings": { "foreground": "#ff4f9a" }
+      "name": "Functions/Methods",
+      "scope": ["entity.name.function", "meta.method"],
+      "settings": {
+        "foreground": "#FF7EB6",
+        "fontStyle": "bold"
+      }
     },
     {
       "name": "Variables",
       "scope": ["variable"],
-      "settings": { "foreground": "#72bca5" }
+      "settings": {
+        "foreground": "#8A9B6E",
+        "fontStyle": "italic"
+      }
     },
     {
       "name": "Strings",
       "scope": ["string"],
-      "settings": { "foreground": "#c8e4b2", "fontStyle": "italic" }
+      "settings": {
+        "foreground": "#A3C9A3",
+        "fontStyle": "italic"
+      }
     },
     {
       "name": "Keywords",
       "scope": ["keyword"],
-      "settings": { "foreground": "#ff5eb7", "fontStyle": "bold" }
+      "settings": {
+        "foreground": "#FF7EB6",
+        "fontStyle": "bold"
+      }
     },
     {
       "name": "Numbers",
       "scope": ["constant.numeric"],
-      "settings": { "foreground": "#ffd966" }
+      "settings": {
+        "foreground": "#C49B6C"
+      }
     },
     {
       "name": "Comments",
       "scope": ["comment"],
-      "settings": { "foreground": "#7a7a7a", "fontStyle": "italic" }
+      "settings": {
+        "foreground": "#666666",
+        "fontStyle": "italic"
+      }
     },
     {
-      "name": "Types",
-      "scope": ["storage.type", "support.type"],
-      "settings": { "foreground": "#be93ff" }
+      "name": "Types/Classes",
+      "scope": ["storage.type", "support.type", "entity.name.class"],
+      "settings": {
+        "foreground": "#9E7EBE"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#D16D9C"
+      }
+    },
+    {
+      "name": "HTML Tags",
+      "scope": ["entity.name.tag.html"],
+      "settings": {
+        "foreground": "#FF7EB6"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": ["entity.other.attribute-name.html"],
+      "settings": {
+        "foreground": "#8A9B6E"
+      }
+    },
+    {
+      "name": "CSS Selectors",
+      "scope": ["entity.name.tag.css"],
+      "settings": {
+        "foreground": "#8A9B6E"
+      }
+    },
+    {
+      "name": "CSS Properties",
+      "scope": ["support.type.property-name.css"],
+      "settings": {
+        "foreground": "#D16D9C"
+      }
     }
   ]
 }
