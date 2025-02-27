@@ -16,7 +16,7 @@
     "activityBar.foreground": "#E85A94",  // Il rosa per l'attività
     "activityBar.inactiveForeground": "#999999",  // Un grigio medio per gli elementi inattivi
     "activityBarBadge.background": "#E85A94",  // Badge rosa
-    "activityBarBadge.foreground": "#FFFFFF",  // Badge bianco per contrasto
+    "activityBarBadge.foreground": "#FFFFFF",  // Badge bianco per contrasto 
     "list.activeSelectionForeground": "#E85A94",  // Rosa per la selezione attiva
     "list.activeSelectionBackground": "#EFEFEF",  // Un grigio molto chiaro per il background della selezione attiva
     "list.inactiveSelectionForeground": "#E85A94",  // Rosa per la selezione inattiva

@@ -11,7 +11,7 @@
     "sideBarSectionHeader.background": "#1E1E1E",  
     "sideBarSectionHeader.foreground": "#757575",
     "list.hoverForeground": "#FF7EB6",
-    "activityBar.background": "#262626",
+    "activityBar.background": "#262626", 
     "activityBar.foreground": "#FF7EB6",
     "activityBar.inactiveForeground": "#757575",
     "activityBarBadge.background": "#FF7EB6",

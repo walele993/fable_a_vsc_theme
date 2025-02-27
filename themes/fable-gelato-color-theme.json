@@ -7,7 +7,7 @@
     "statusBar.background": "#EFEAE0",
     "statusBar.foreground": "#D6409F",
     "statusBarItem.activeBackground": "#D4CEC6",
-    "statusBarItem.prominentBackground": "#D4CEC6",
+    "statusBarItem.prominentBackground": "#D4CEC6", 
     "sideBar.background": "#F9F6F0",
     "sideBar.foreground": "#B8A898",
     "sideBarSectionHeader.foreground": "#B8A898",
