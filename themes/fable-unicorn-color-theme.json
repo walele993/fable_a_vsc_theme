@@ -2,32 +2,34 @@
   "name": "Unicorn",
   "type": "light",
   "colors": {
-    "editor.background": "#ffffff",
-    "editor.foreground": "#333333",
-    "statusBar.background": "#f5f5f5",
-    "statusBar.foreground": "#e85a94",
-    "sideBar.background": "#f0f0f0",
-    "sideBar.foreground": "#666666",
-    "sideBarSectionHeader.foreground": "#666666",
-    "sideBarSectionHeader.background": "#ffffff",
-    "activityBar.background": "#f0f0f0",
-    "activityBar.foreground": "#e85a94",
-    "activityBar.inactiveForeground": "#666666",
-    "activityBarBadge.background": "#e85a94",
-    "activityBarBadge.foreground": "#ffffff",
-    "list.activeSelectionForeground": "#e85a94",
-    "list.activeSelectionBackground": "#d6d6d6",
-    "list.inactiveSelectionForeground": "#e85a94",
-    "list.inactiveSelectionBackground": "#f5f5f5",
-    "menu.selectionForeground": "#e85a94",
-    "menu.selectionBackground": "#d6d6d6",
-    "button.background": "#6c9c86",
-    "editorCursor.foreground": "#e85a94",
-    "editorLineNumber.foreground": "#888888",
-    "editor.selectionBackground": "#d6d6d6",
-    "editor.selectionHighlightBackground": "#e85a9450",
-    "focusBorder": "#6c9c86"
-  },
+    "editor.background": "#FFFFFF",  // Bianco più caldo per un look più accogliente
+    "editor.foreground": "#333333",  // Mantieni il contrasto scuro per il testo
+    "statusBar.background": "#F1F1F1",  // Un grigio più morbido per la status bar
+    "statusBar.foreground": "#E85A94",  // Mantieni il rosa per coerenza
+    "statusBarItem.prominentBackground": "#99999950",
+    "sideBar.background": "#FAFAFA",  // Un bianco-grigio più delicato per la sidebar
+    "sideBar.foreground": "#999999",  // Un grigio scuro per il testo della sidebar
+    "sideBarSectionHeader.foreground": "#888888",  // Mantieni il grigio scuro
+    "sideBarSectionHeader.background": "#F4F4F4",  // Un bianco pulito per la sezione
+    "list.hoverForeground": "#D6409F",
+    "activityBar.background": "#F4F4F4",  // Un grigio chiaro per la activity bar
+    "activityBar.foreground": "#E85A94",  // Il rosa per l'attività
+    "activityBar.inactiveForeground": "#999999",  // Un grigio medio per gli elementi inattivi
+    "activityBarBadge.background": "#E85A94",  // Badge rosa
+    "activityBarBadge.foreground": "#FFFFFF",  // Badge bianco per contrasto
+    "list.activeSelectionForeground": "#E85A94",  // Rosa per la selezione attiva
+    "list.activeSelectionBackground": "#EFEFEF",  // Un grigio molto chiaro per il background della selezione attiva
+    "list.inactiveSelectionForeground": "#E85A94",  // Rosa per la selezione inattiva
+    "list.inactiveSelectionBackground": "#F9F9F9",  // Un bianco-grigio molto chiaro
+    "menu.selectionForeground": "#E85A94",  // Rosa per la selezione nel menu
+    "menu.selectionBackground": "#EFEFEF",  // Un grigio chiaro per la selezione nel menu
+    "button.background": "#6C9C86",  // Un verde pastello per il bottone, in contrasto con il rosa
+    "editorCursor.foreground": "#E85A94",  // Il rosa per il cursore
+    "editorLineNumber.foreground": "#888888",  // Un grigio più scuro per i numeri di linea
+    "editor.selectionBackground": "#D6D6D6",  // Un grigio chiaro per la selezione
+    "editor.selectionHighlightBackground": "#E85A9450",  // Rosa semi-trasparente per il highlight
+    "focusBorder": "#6C9C86"  // Verde pastello per il bordo del focus
+},
   "tokenColors": [
     {
       "name": "Functions/Methods",

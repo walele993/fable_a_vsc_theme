@@ -10,6 +10,7 @@
     "sideBar.foreground": "#666666",
     "sideBarSectionHeader.foreground": "#666666",
     "sideBarSectionHeader.background": "#000000",
+    "list.hoverForeground": "#FF7EB6",
     "activityBar.background": "#0A0A0A",
     "activityBar.foreground": "#FF7EB6",
     "activityBar.inactiveForeground": "#666666",
