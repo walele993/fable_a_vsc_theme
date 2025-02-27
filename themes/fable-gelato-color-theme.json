@@ -83,7 +83,7 @@
       "scope": ["variable", "entity.other.attribute-name"],
       "settings": {
         "foreground": "#8A9B6E",
-        "fontStyle": "italic bold",
+        "fontStyle": "italic bold"
       }
     },
     {
