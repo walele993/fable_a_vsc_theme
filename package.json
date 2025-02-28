@@ -19,7 +19,7 @@
         "path": "./themes/fable-gelato-color-theme.json"
       },
       {
-        "label": "Grimoir",
+        "label": "Grimoire",
         "uiTheme": "vs-dark", 
         "path": "./themes/fable-grimoir-color-theme.json"
       },

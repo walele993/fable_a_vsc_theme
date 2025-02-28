@@ -26,8 +26,9 @@
     "button.background": "#6C9C86",  // Un verde pastello per il bottone, in contrasto con il rosa
     "editorCursor.foreground": "#E85A94",  // Il rosa per il cursore
     "editorLineNumber.foreground": "#888888",  // Un grigio più scuro per i numeri di linea
-    "editor.selectionBackground": "#D6D6D6",  // Un grigio chiaro per la selezione
+    "editor.selectionBackground": "#D6D6D650",  // Un grigio chiaro per la selezione
     "editor.selectionHighlightBackground": "#E85A9450",  // Rosa semi-trasparente per il highlight
+    "editor.lineHighlightBackground": "#F1F1F1",
     "focusBorder": "#6C9C86"  // Verde pastello per il bordo del focus
 },
   "tokenColors": [
