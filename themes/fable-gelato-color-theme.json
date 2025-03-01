@@ -104,6 +104,7 @@
     "listFilterWidget.background": "#F9F6F0",
     "listFilterWidget.outline": "#D4CEC6",
     "listFilterWidget.noMatchesOutline": "#D6409F",
+    "list.errorForeground": "#FF0000",
     "tree.indentGuidesStroke": "#D4CEC6",
 
     // Status Bar
