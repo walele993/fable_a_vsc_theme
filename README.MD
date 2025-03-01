@@ -1,30 +1,58 @@
-# Fable Themes (Work in Progress)
+# Fable Themes
 
-Fable Themes is a collection of custom Visual Studio Code themes designed for a clean and visually appealing coding experience. Each theme features a unique color palette optimized for readability and contrast.
+Fable Themes is a curated collection of custom Visual Studio Code themes, each crafted to provide a unique and visually appealing coding experience. Our themes are designed with distinct color palettes to enhance readability and aesthetics.
 
 ## Available Themes
 
-- **Unicorn** - A light theme with a white background and pink/green accents.
-- **Gelato** - A light variant with a beige background and soft tones.
-- **Grimoire** - A dark theme with balanced colors and smooth contrasts.
-- **Liquorice** - A high-contrast dark theme with a deep black background and vibrant colors.
+- **Unicorn**  
+  Immerse yourself in a bright and lively atmosphere with a pristine white canvas complemented by playful pink and refreshing green accents.
+  - **Primary Colors:**
+    - Background: #FFFFFF
+    - Text: #333333
+    - Pink Accents: #E85A94, #D6409F
+    - Green Accents: #6C9C86
+    - Neutral Tones: #F1F1F1, #FAFAFA, #F4F4F4
 
-## Project Status
+- **Gelato**  
+  Experience the subtle charm of soft, creamy hues reminiscent of your favorite gelato flavors, creating a soothing and delightful coding environment.
+  - **Primary Colors:**
+    - Background: #FDFAF5
+    - Text: #554D44
+    - Pink Accents: #D6409F
+    - Green Accents: #6C9C86
+    - Purple Accents: #7A4EBF
+    - Neutral Tones: #F9F6F0, #EFEAE0, #F3F0EA
 
-This collection is currently **a work in progress**. Colors and details may be adjusted over time to improve the experience.
+- **Grimoire**  
+  Delve into the depths of a dark theme that balances rich, muted tones with smooth contrasts, offering a modern twist on classic elegance.
+  - **Primary Colors:**
+    - Background: #1E1E1E
+    - Sidebar: #2D2D2D
+    - Text: #D4D4D4
+    - Pink Accents: #FF7EB6
+    - Green Accents: #8A9B6E, #A3C9A3
+    - Blue/Violet Accents: #9E7EBE
+    - Brown Accents: #C49B6C
 
-## Installation
-
-1. Clone the repository or download the theme JSON files.
-2. Copy the desired theme file into the VS Code themes folder.
-3. Enable the theme from the Visual Studio Code settings.
+- **Liquorice**  
+  Embrace the intensity of a high-contrast dark theme featuring a deep black background and vibrant, striking colors that make your code pop.
+  - **Primary Colors:**
+    - Background: #000000
+    - Text: #CCCCCC
+    - Intense Pink Accents: #FF7EB6
+    - Dark Green Accents: #2A4041
+    - Medium Gray Tones: #666666
+    - Light Violet Accents: #9E7EBE
+    - Dark Pink Accents: #D16D9C
 
 ## Contributions
 
 Feedback and suggestions are always welcome! If you have ideas or requests, feel free to open an issue or reach out.
 
 ## Credits
+
 This project was created by Gabriele Meucci.
 
 ---
-🔧 *Stay tuned for updates and improvements!*
+
+🦄 *Code in Color with Fable Themes!*
