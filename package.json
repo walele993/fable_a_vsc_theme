@@ -2,7 +2,7 @@
   "name": "fable-code-theme",
   "displayName": "Fable",
   "description": "Un tema magico con 4 varianti: Unicorn, Gelato, Grimoir, Liquorice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "walele993",
   "engines": { "vscode": "^1.75.0" },
   "categories": ["Themes"],
