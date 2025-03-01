@@ -1,8 +1,8 @@
 {
   "name": "fable-code-theme",
   "displayName": "Fable",
-  "description": "Un tema magico con 4 varianti: Unicorn, Gelato, Grimoir, Liquorice",
-  "version": "1.1.0",
+  "description": "Dive into a coding experience like no other with our meticulously crafted theme, designed to ignite your creativity and enhance productivity. Featuring a harmonious blend of vibrant accents and soothing backgrounds, it transforms your editor into a visually stunning workspace",
+  "version": "1.2.0",
   "publisher": "walele993",
   "engines": { "vscode": "^1.75.0" },
   "categories": ["Themes"],
