@@ -6,6 +6,7 @@ Fable Themes is a curated collection of custom Visual Studio Code themes, each c
 
 - **Unicorn**  
   Immerse yourself in a bright and lively atmosphere with a pristine white canvas complemented by playful pink and refreshing green accents.
+![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Unicorn.png)
   - **Primary Colors:**
     - Background: #FFFFFF
     - Text: #333333
