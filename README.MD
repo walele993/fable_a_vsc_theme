@@ -6,6 +6,7 @@ Fable Themes is a curated collection of custom Visual Studio Code themes, each c
 
 - **Unicorn**  
   Immerse yourself in a bright and lively atmosphere with a pristine white canvas complemented by playful pink and refreshing green accents.
+
 ![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Unicorn.png)
   - **Primary Colors:**
     - Background: #FFFFFF
@@ -16,7 +17,8 @@ Fable Themes is a curated collection of custom Visual Studio Code themes, each c
 
 - **Gelato**  
   Experience the subtle charm of soft, creamy hues reminiscent of your favorite gelato flavors, creating a soothing and delightful coding environment.
-![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Gealto.png)
+
+![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Gelato.png)
   - **Primary Colors:**
     - Background: #FDFAF5
     - Text: #554D44
@@ -27,6 +29,7 @@ Fable Themes is a curated collection of custom Visual Studio Code themes, each c
 
 - **Grimoire**  
   Delve into the depths of a dark theme that balances rich, muted tones with smooth contrasts, offering a modern twist on classic elegance.
+
 ![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Grimoire.png)
   - **Primary Colors:**
     - Background: #1E1E1E
@@ -39,6 +42,7 @@ Fable Themes is a curated collection of custom Visual Studio Code themes, each c
 
 - **Liquorice**  
   Embrace the intensity of a high-contrast dark theme featuring a deep black background and vibrant, striking colors that make your code pop.
+
 ![Alt text](https://github.com/walele993/fable_web/blob/main/screenshots/Liquorice.png)
   - **Primary Colors:**
     - Background: #000000
